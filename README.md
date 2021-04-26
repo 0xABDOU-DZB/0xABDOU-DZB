@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am ABDOU_DZB<img height="30" src="803793060932223006.gif"> !
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am ABDOU_DZB!
 [<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="align: left"/>](https://www.spotify.com/us/account/overview/)
 
 

@@ -14,3 +14,5 @@
 ### About ME
 
 <img hight="400" width="500" alt="GIF" align="right" src="GIF 26-04-2021 06-29-10.gif">
+
+### - Learning

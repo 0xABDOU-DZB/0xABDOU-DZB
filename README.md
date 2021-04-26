@@ -16,13 +16,13 @@
 <img hight="400" width="500" alt="GIF" align="right" src="GIF 26-04-2021 06-29-10.gif">
 
 ### - Learning :
-- 🔹 Data Structures & Algorithms
-- 🔹 Generative Adversarial Networks
+- 🔹 **Data Structures & Algorithms**
+- 🔹 **Generative Adversarial Networks**
 
 ### - Hobbies : 
-- 🔸 Gaming Addict
-- 🔸 Light Reading 
-- 🔸 તમારી માતાને હેક કરો
+- 🔸 **Gaming Addict
+- 🔸 **Light Reading** 
+- 🔸 **તમારી માતાને હેક કરો**
 
 <h3 align="left">Languages and Tools:</h3>
 

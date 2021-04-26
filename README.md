@@ -14,5 +14,13 @@
 # About ME 💬 :
 ### - *I'm* *ABDOU_DZB* They Loved old Machine Learning & Artificial Intelligence Enthusiast from Morocco.
 <img hight="400" width="500" alt="GIF" align="right" src="GIF 26-04-2021 06-29-10.gif">
+### - Learning :
+- 🔹 Data Structures & Algorithms
+- 🔹 Generative Adversarial Networks
+
+### - Hobbies : 
+- 🔸 Gaming Addict
+- 🔸 Light Reading 
+- 🔸 તમારી માતાને હેક કરો
 
 

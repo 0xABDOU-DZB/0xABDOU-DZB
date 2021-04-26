@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am ABDOU_DZB!
-<img hight="400" width="500" alt="GIF" align="right" src="GIF 26-04-2021 06-29-10.gif">
+[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="align: left"/>](https://www.spotify.com/us/account/overview/)
+
+
 
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Connect with me:.</h1>
@@ -11,3 +13,4 @@
   
 ### About ME
 [<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="align: left"/>](https://www.spotify.com/us/account/overview/)
+<img hight="400" width="500" alt="GIF" align="right" src="GIF 26-04-2021 06-29-10.gif">

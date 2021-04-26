@@ -20,8 +20,8 @@
 - 🔹 **Generative Adversarial Networks**
 
 ### - Hobbies : 
-- 🔸 **Gaming Addict
-- 🔸 **Light Reading** 
+- 🔸 **Gaming Addict**
+- 🔸 **Light** **Reading** 
 - 🔸 **તમારી માતાને હેક કરો**
 
 <h3 align="left">Languages and Tools:</h3>

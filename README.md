@@ -5,7 +5,7 @@
 
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Connect with me:.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Connect with me:</h1>
 <p align="left">
 <a href="https://github.com/ABD0U-DZB" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/abdou_dzb2/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -33,4 +33,18 @@ href="https://www.perl.org/" target="_blank"> <img src="https://api.iconify.desi
 
 
 
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.ABDOU_DZB.vercel.app` to `github-readme-stats.vercel.app` 
+--->
 
+<!-- Change the `github-readme-stats.ABDOU_DZB.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+### Github Stats 
+
+- ✏**NOTE** 📃  ***Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of***
+
+<a href="https://github.com/ABD0U-DZB">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ABD0U-DZB&show_icons=synthwave_all_commits=dracula&theme=great-gatsby" alt="ABDOU_DZB's github stats" /> </a>
+<a href="https://github.com/ABD0U-DZB">
+ 

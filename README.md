@@ -14,7 +14,7 @@
   
 # About ME 💬 :
 ### - *I'm* *ABDOU_DZB* *They* *Loved* *old* *Machine* *Learning* *&* *Artificial* *Intelligence* *Enthusiast* *from* *Morocco*
-<img hight="400" width="500" alt="GIF" align="right" src="GIF 26-04-2021 06-29-10.gif">
+<img hight="500" width="600" alt="GIF" align="right" src="https://github.com/ABD0U-DZB/ABD0U-DZB/blob/main/FUUUCK.gif">
 
 ### - Learning :
 - 🔹 **Data Structures & Algorithms**

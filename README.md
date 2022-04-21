@@ -1,6 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am **ABDOU_DZB** <img src="https://github.com/ABD0U-DZB/ABD0U-DZB/blob/main/803793060932223006.gif?raw=true" width="30px">
-                                                                                                                                        
-[<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=rsspczkp3g4guni467rak4x8e&cover_image=true&theme=natemoo-re" alt="Spotify Playing" width="350" style="align: left"/>](https://www.spotify.com/us/account/overview/)
+  
+  
+####  Spotify Playing 🎧
+[<img src="https://spotify-recently-played-readme.vercel.app/api?user=7i4n4dyk0zel9npnqdx84mbts" alt="Spotify Playing" width="400" style="align: left"/>](https://open.spotify.com/user/7i4n4dyk0zel9npnqdx84mbts)
 
 
 
@@ -44,7 +46,5 @@ href="https://www.perl.org/" target="_blank"> <img src="https://api.iconify.desi
 
 - ✏**NOTE** 📃  ***Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of***
 
-<a href="https://github.com/0xABD0U-DZB">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xABD0U-DZB&show_icons=synthwave_all_commits=dracula&theme=great-gatsby" alt="0xABD0U-DZB's github stats" /> </a>
-<a href="https://github.com/0xABD0U-DZB">
- 
+[![0xABDOU-DZB's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xABDOU-DZB)](https://github.com/0xABDOU-DZB/github-readme-stats)
+

@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am **ABDOU_DZB** <img src="https://github.com/ABD0U-DZB/ABD0U-DZB/blob/main/803793060932223006.gif?raw=true" width="30px">
   
   
-####  Spotify Playing 🎧
+### Spotify Playing 🎧
 [<img src="https://spotify-recently-played-readme.vercel.app/api?user=7i4n4dyk0zel9npnqdx84mbts" alt="Spotify Playing" width="400" style="align: left"/>](https://open.spotify.com/user/7i4n4dyk0zel9npnqdx84mbts)
 
 
